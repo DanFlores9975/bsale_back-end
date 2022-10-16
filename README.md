@@ -1,5 +1,5 @@
-# Gestión de tareas de usuario
-## Elaboración de una rest api con node js y express para la gestion de tareas de usuarios
+# Back-end de base de datos con productos 
+## Elaboración de una rest api con node js y express para una tienda online
 
 Para consultar la rest API de manera online se utilizan los siguientes endpoints
 ---
